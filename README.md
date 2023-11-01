@@ -1,4 +1,4 @@
-![{BQ$338C`156@SFKPFBUG`F](https://github.com/666bears/food/assets/143094776/5507199c-3430-4728-b941-8e886763f0d0)# food
+# food
 基于Java+SSM+Jsp的美食推荐系统(源代码+数据库+万字文档+ppt)毕业设计课程设计角色：管理员、用户美食推荐管理系统是基于java编程语言，ssm框架，mysql数据库开发，本系统主要分为用户和管理员两个角色，其中用户注册登陆后可以查看美食，教程，社区，资讯公告，收藏，评论；管理员对用户，美食，美食分类，店铺，社区等信息进行管理。本系统功能齐全，文档齐全。
 #### 一、 项目介绍
 
@@ -36,7 +36,7 @@ Tomcat环境：Tomcat 7.x,8.x,9.x版本均可
 ![1675180659989](https://github.com/666bears/food/assets/143094776/8fb9cc3a-0daa-42df-8bfc-5b30bb8858f4)
 ![1675180632888](https://github.com/666bears/food/assets/143094776/d493e02d-6608-4a9a-9e14-5754861bd772)
 ![1675180610902](https://github.com/666bears/food/assets/143094776/9094c27d-7fa1-4885-86a5-f9795fa18a7d)
-
+![{BQ$338C`156@SFKPFBUG`F](https://github.com/666bears/food/assets/143094776/5507199c-3430-4728-b941-8e886763f0d0)
 ![{BQ$338C`156@SFKPFBUG`F](https://github.com/666bears/food/assets/143094776/7a0a43f3-af3b-47a5-b860-3a4a8f5448e5)
 
 ![6G` QV ORRXGHI F3UP4GG5](https://github.com/666bears/food/assets/143094776/e7de984d-48b8-4221-b08d-41dbbad79238)
